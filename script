@@ -1,0 +1,5 @@
+Get-AppxPackage *onenote* | Remove-AppxPackage
+Get-AppxPackage *officehub* | Remove-AppxPackage
+Get-AppxPackage *solitairecollection* | Remove-AppxPackage
+Get-AppxPackage *skypeapp* | Remove-AppxPackage
+Get-AppxPackage *xboxapp* | Remove-AppxPackage
